@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #f5f7fa; color: #1f2933; }
+header { background: #306998; color: #fff; padding: 1.5rem; text-align: center; }
+header p { margin: .3rem 0 0; color: #ffd43b; }
+main { max-width: 640px; margin: 1.5rem auto; padding: 0 1rem; }
+#lecciones { list-style: none; padding: 0; }
+#lecciones li { background: #fff; border-left: 5px solid #ffd43b; margin-bottom: .6rem; padding: .7rem 1rem; border-radius: 4px; }
+#lecciones li span { display: block; color: #6b7280; font-size: .9rem; }
+footer { text-align: center; color: #6b7280; padding: 1rem; font-size: .85rem; }
